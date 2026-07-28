@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dazzling-pillar-493719-h4",
+  "private_key_id": "d496f8ea2fc6f5ef6fc59f415747efdbd9e383a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDPy2X+SphL37q8\nyHU2Lmf7qggfT8kNjm6P40gGfIhKqJwcVtlo+/jUm7VghuOcIt1/pJ3XxbqII+IH\nczm/GW+FnlUFwx+aKXM2YQFQ5UZKviRI14BZT5K2H12dBNsyKD1h+gGJEJwjGN4J\nN7aTNHwuFGuwrkR7hSOaG5rJemYXl7j+qDA/If+4HBUQQ2X6DEXNFwHyPbGWiAl+\nSa/epNvZErreXacX1ErFujSpjbXpyaaHx7KlvqQ5lzkJul8C0L3T1fa2ooYIJIoY\niZopcsl7RJAL9531Kq+bYtwr74X7f3bJ3hMMCpuv+LvyU3FVV6MPhEvXdk18HaMo\nZg85MEFHAgMBAAECggEASuYHRPIRVCP4FMzyhs2SWIGQvOyOzS6eRooHb6Mao0KE\nRqi9Y9yS89uONJVaXHCqwzQMWvagBitc8Q+E7I9YBeMsxU9wSCqRpzOu/EAwJofD\n32eiEU8f1DqZDRxvf/RGL9ckD4onpXT0r4Df885yxk9BA+XEtHsoeodhsybFvtGg\nFxFeNbzX3Aex5kqNoHxdI5RVgJp4t4Rmk5KZq1mIwhF9spMTE5HXUZCIb8hVag6Q\nIb0mWX0C+OiXGCh9feuo9VwcurUtYWNR/xF6FnnjjpSA9X9q+dWq9FTJ7IV7dpny\nqvcqlsepJM2v7sVeQnZf7pxI8CRWVF1NMYo02AvuzQKBgQD62d0F4gBDQWmg5KYv\ngylTZVBbSmyVZSsO0JKIoDFOePKmkKZIA49h/ktXVuHyUjPbdnE7FNT3ly3yOZah\nyT0XwV9Hn4f5OCzyHzL+/jiYYqL6r69pxgJH4Y9PGo6j8Q4cQLQkZCYD2Xrx54cs\nNFUYW8Nqrj/mvMTtiwGdEkuGcwKBgQDUD0ms0el9jjaK+MnbcAKtOMaRnxDukZLs\n56YX0V46ogdRqwgmUtaVSRGAsG5LMV6ej9H6ELNEWYD40iuvwsBeku/dHK+TaVZg\nW+sjWUOAIberSLH9oJwyXSfNMBNcGTLQqrTdFYH8p/E8DJf4QJDxWgDgrfV5+GcO\nofd62JIQ3QKBgQDZVCU8Mog9vI9SGKauJTmJig4reXhHmoXKaQN7ISZ2sSyxCEM3\nwvXXVWRav+gzc+p/qccCA9NaynzBDgmmE149lYgB2oIIdhXikwswhnnr9BD1lX4o\n6qcRNadeRkjsWiz6Z0hq+uVAkowExq2Cq7hJyT6tz1eHhWYr0zHLro0GZwKBgQCX\n0FIIXUbxUgyONUodxPTFmi3eNqhigulSnQx1ZLg29aSTvQPam9dvjJ3xKV3siu2Y\nSpIimi4cso74k04fSCd8DWmXPGAeAn2KAoQ2DEOcyYa6IxL55i+shrBl3xMdDhUo\n+ez9kdY7UOgM+18YpPCfOLYEI8XnigQNn7qSwdTgKQKBgQCVJPoYnrm5EkeKowCP\nnVA2i2ZKlW+kdOlrIA/UOEuzA1MJrZHT8T6pzAtqCupw/L7Dap3zQWVGPeYuZe1/\nMoUvDUSVRFwbScU+dKwMfc2952QFFsXJWDbgOySNBxkHWU2eYmFzG/TX4ynji/87\nB6YnoZYFNXqLEY+43OPIxpTrkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bender-bending-unit-ci@dazzling-pillar-493719-h4.iam.gserviceaccount.com",
+  "client_id": "104307239058177234951",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bender-bending-unit-ci%40dazzling-pillar-493719-h4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
